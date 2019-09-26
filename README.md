@@ -1,4 +1,6 @@
 # Docker Application
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fallons-y%2Fapp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fallons-y%2Fapp?ref=badge_shield)
+
 
 A Docker CLI Plugin to configure, share and install applications:
 * Extend [Compose files](https://docs.docker.com/compose/compose-file/) with metadata and parameters
@@ -376,3 +378,7 @@ they mature. These commands are only accessible using an experimental binary.
 Feel free to test these commands and give us some feedback!
 
 See [BUILDING.md/Experimental](BUILDING.md#experimental).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fallons-y%2Fapp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fallons-y%2Fapp?ref=badge_large)
